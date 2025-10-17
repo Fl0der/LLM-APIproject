@@ -1,0 +1,24 @@
+Jānis Bērziņš
+Python izstrādātājs
+
+Pieredze:
+- 4 gadu pieredze kā Python izstrādātājs
+- 2 gadu pieredze ar Django ietvaru
+- REST API izstrāde vairākos projektos
+- Pieredze ar PostgreSQL un MySQL
+- Docker izmantošana izstrādes vidē
+- Spējīgs strādāt komandā
+
+Prasmes:
+- Python, Django, Flask
+- REST API, JSON
+- PostgreSQL, MySQL
+- Docker, Git
+- HTML, CSS, JavaScript
+
+Izglītība:
+- Datorzinātņu bakalaurs
+
+Valodas:
+- Latviešu (dzimtā)
+- Angļu (tekoši)

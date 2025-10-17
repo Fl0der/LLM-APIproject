@@ -1,0 +1,23 @@
+Python izstrādātājs
+
+Mēs meklējam pieredzējušu Python izstrādātāju, kas pievienosies mūsu komandai.
+
+Prasības:
+- 3+ gadu pieredze Python izstrādē
+- Pieredze ar Django vai Flask ietvaru
+- Zināšanas par REST API izstrādi
+- Pieredze ar datu bāzēm (PostgreSQL, MySQL)
+- Zināšanas par Docker un konteinerizāciju
+- Spēja strādāt komandā un labas komunikācijas prasmes
+
+Vēlamās prasmes:
+- Pieredze ar AWS vai Google Cloud
+- Zināšanas par mikroservisu arhitektūru
+- Pieredze ar testēšanas ietvariem (pytest)
+- Git versiju kontroles sistēmas zināšanas
+
+Atbildības:
+- Lietojumprogrammu izstrāde un uzturēšana
+- Tehniskā dokumentācija
+- Koda pārskatīšana
+- Problēmu risināšana un optimizācija

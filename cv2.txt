@@ -1,0 +1,23 @@
+Anna Liepiņa
+Junior Python izstrādātāja
+
+Pieredze:
+- 1 gada pieredze Python izstrādē
+- Pamatzināšanas Flask ietvarā
+- Studentu projekti ar REST API
+- Pieredze ar SQLite datu bāzēm
+- Labas komunikācijas prasmes
+
+Prasmes:
+- Python, Flask
+- REST API pamati
+- SQLite, MySQL pamati
+- Git versiju kontrole
+- Java, C++ pamati
+
+Izglītība:
+- Datorzinātņu bakalaurs (topošā)
+
+Valodas:
+- Latviešu (dzimtā)
+- Angļu (labas zināšanas)

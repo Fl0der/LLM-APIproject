@@ -1,0 +1,21 @@
+Pēteris Ozoliņš
+Sistēmu administrators
+
+Pieredze:
+- 5 gadu pieredze sistēmu administrēšanā
+- Windows un Linux serveru uzturēšana
+- Tīkla infrastruktūras pārvaldība
+- Tehniskā atbalsta sniegšana
+
+Prasmes:
+- Windows Server, Linux
+- Tīkla drošība
+- Hardware uzturēšana
+- PowerShell, Bash skripti
+
+Izglītība:
+- Informācijas tehnoloģiju tehniķis
+
+Valodas:
+- Latviešu (dzimtā)
+- Angļu (vidējas zināšanas)
